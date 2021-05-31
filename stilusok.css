@@ -68,3 +68,7 @@ nav a:hover {
 nav a.aktiv {
     background-color: #B28810;
 }
+
+#navigacio {
+    float: bottom;
+}
